@@ -1,3 +1,6 @@
+<h1>WARNING!</h1>
+<p>This is the source code to the beta builds of coleOS currently. Expect things to break & not work properly.</p>
+
 <h1>Welcome to coleOS!</h1>
 <p>This is the public source code for coleOS linux!</p>
 <p>&nbsp;</p>

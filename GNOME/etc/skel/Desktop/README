@@ -1,0 +1,9 @@
+You are running a beta build of coleOS. Expect things to bug out & break.
+If you found a bug, please report it to us on Discord: https://discord.gg/c8C6cyUCfN
+Make sure you report it in the #bug-reports channel.
+
+Changelogs - 8/2/2023
+
+* Rebase to blizOS Linux
+
+Note that these builds could go more unstable as time goes on depending on how many updates are available.

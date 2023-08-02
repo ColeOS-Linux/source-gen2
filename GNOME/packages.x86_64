@@ -291,7 +291,6 @@ calamares
 ckbcomp
 mkinitcpio-openswap
 
-# NovOS packages
-novos-mirrorlist
+# blizOS packages
 plymouth
-novos-grub-theme
+blizOS-grub-theme
