@@ -24,7 +24,7 @@ echo "Starting build for GNOME"
 cd GNOME/
 ./steps.sh
 cd ../
-echo "Cleaning up GNOME (Main Edition) build files..."
+echo "Cleaning up GNOME Edition build files..."
 rm -rf GNOME/work
 rm -rf GNOME/ezreleng
 mv GNOME/out/* out/
@@ -34,7 +34,7 @@ echo "Starting build for XFCE"
 cd XFCE/
 ./steps.sh
 cd ../
-echo "Cleaning up XFCE (Lite Edition) build files..."
+echo "Cleaning up XFCE (Main Edition) build files..."
 rm -rf XFCE/work
 rm -rf XFCE/ezreleng
 mv XFCE/out/* out/
