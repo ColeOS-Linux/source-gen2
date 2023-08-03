@@ -124,6 +124,7 @@ cp -r efiboot ./ezreleng/
 cp -r syslinux ./ezreleng/
 cp -r etc ./ezreleng/airootfs/
 cp -r usr ./ezreleng/airootfs/
+cp -r root ./ezreleng/airootfs/
 }
 
 # Set hostname

@@ -225,6 +225,7 @@ ckbcomp
 mkinitcpio-openswap
 
 # blizOS packages
+blizos-icons
 plymouth
 blizos-grub-theme
 
