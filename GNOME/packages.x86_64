@@ -293,4 +293,4 @@ mkinitcpio-openswap
 
 # blizOS packages
 plymouth
-blizOS-grub-theme
+blizos-grub-theme
