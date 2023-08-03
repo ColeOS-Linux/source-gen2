@@ -5,5 +5,8 @@ Make sure you report it in the #bug-reports channel.
 Changelogs - 8/2/2023
 
 * Rebase to blizOS Linux
+* New testing repo
+* New bootsplash & calamares theme
+* Refreshed UI (XFCE only)
 
 Note that these builds could go more unstable as time goes on depending on how many updates are available.

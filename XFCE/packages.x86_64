@@ -8,7 +8,7 @@ arch-install-scripts
 b43-fwcutter
 base
 base-devel
-grub-btrfs
+btrfs-progs
 timeshift
 intel-ucode
 linux
@@ -227,3 +227,9 @@ mkinitcpio-openswap
 # blizOS packages
 plymouth
 blizos-grub-theme
+
+# Themes
+bibata-cursor-theme
+fluent-round-icon-theme-git
+materia-gtk-theme
+kvantum-theme-materia

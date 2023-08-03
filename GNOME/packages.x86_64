@@ -8,7 +8,7 @@ arch-install-scripts
 b43-fwcutter
 base
 base-devel
-grub-btrfs
+btrfs-progs
 timeshift
 intel-ucode
 linux

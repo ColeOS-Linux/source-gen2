@@ -19,7 +19,7 @@ KEYMP="us"
 KEYMOD="pc105"
 # pc105 and pc104 are modern standards, all others need to be researched
 
-MYUSERNM="blizos"
+MYUSERNM="coleos"
 # use all lowercase letters only
 
 MYUSRPASSWD="coleos"
