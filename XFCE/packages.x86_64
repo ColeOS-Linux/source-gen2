@@ -3,6 +3,7 @@
 alsa-utils
 amd-ucode
 virtualbox-guest-utils
+git
 open-vm-tools
 arch-install-scripts
 b43-fwcutter
