@@ -1,6 +1,6 @@
 <h1>Welcome to coleOS!</h1>
 <p>This is the public source code for coleOS Gen 2 (2023-)</p>
-<p> this also includes gnome addition, along with a script that builds both (broken), to build, go into the xfce dir and run sudo sh steps.sh</p>
+<p> this also includes gnome addition(currently broken), along with a script that builds both , to build, go into the xfce dir and run sudo sh steps.sh</p>
 
 
 <p>&nbsp;</p>
